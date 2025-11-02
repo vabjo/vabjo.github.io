@@ -1,2 +1,3 @@
-# vabjo.github.io
-Webbutvecklings projekt
+# Webbutveckling - Mittuniversitetet
+Valgerdur Björnsdottir
+vabj2200
